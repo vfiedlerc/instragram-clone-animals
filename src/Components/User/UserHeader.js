@@ -25,17 +25,7 @@ const UserHeader = () => {
     <header className={styles.header}>
       <h1 className="title">{title}</h1>
       <UserHeaderNav />
-     
-      <p>AQUI EU COLOCO O LINK DE PAGAMENTO
-
-      </p>
-
-      <p> O PRICING VAI REDIREDIONAR PRA CA</p>
-
-      <p>AQUI VAI TER BASICAMENTE UMA EXPLICACAO DO QUE E O SERVICO PRESTADO E VOU CHAMAR UM BOTAO AQUI QUE VAI PODER FAZER O CHECKOUT......DPS PRECISO ESTILIZAR A PAGINA INICIAL COM BOOTSTRAP E ALGUNS DETALHES DO FOOTER E DO HEADER.........TROCAR AS IMAGENS DO SITE E INTEGRAR UMA API COM FIREBASE PRA PODER CONSUMIR A API</p>
     </header>
-
-    
   );
 };
 

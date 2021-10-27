@@ -11,7 +11,6 @@ const UserProfile = () => {
       <Head title={user} />
       <h1 className="title">{user}</h1>
       <Feed user={user} />
- 
     </section>
   );
 };
